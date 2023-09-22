@@ -17,6 +17,10 @@ The system is built with Python, leveraging its simplicity and versatility.
 ### Technologies Used
 Python: The project is written in Python, a powerful, flexible language that’s great for projects of all sizes. MySQL: We use MySQL for our database to store employee data.
 
-# Sample of my project
-![Screenshot (47)](https://github.com/ashishkumaryadav7/Employee-Management-System/assets/139031386/cbba593e-6c5e-4f84-b693-36a5898d735a)
-![Screenshot (53)](https://github.com/ashishkumaryadav7/Employee-Management-System/assets/139031386/394b5dde-3f4c-4e14-9dbd-9fa2c8c1132e)
+# Sample of project:
+![1](https://github.com/ashishkumaryadav7/Employee-Management-System/assets/139031386/f69355de-b84c-433f-8e20-e25c68fd1402)
+![2](https://github.com/ashishkumaryadav7/Employee-Management-System/assets/139031386/3f39d87e-5b14-47e4-a08a-2bed81789d82)
+![3](https://github.com/ashishkumaryadav7/Employee-Management-System/assets/139031386/279606dd-90f2-4735-9a3e-bdeaa5db304d)
+![4](https://github.com/ashishkumaryadav7/Employee-Management-System/assets/139031386/974bbc35-622d-4495-9477-52fabc7c7c6e)
+![5](https://github.com/ashishkumaryadav7/Employee-Management-System/assets/139031386/a1232332-250e-4f95-bfaf-9962688e143e)
+![6](https://github.com/ashishkumaryadav7/Employee-Management-System/assets/139031386/9b02f71e-c9d4-4ee2-bb37-b1fb2a9f0dda)
